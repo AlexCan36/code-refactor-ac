@@ -5,17 +5,17 @@ In this project we refactor an on the job ticket to make the site more accessibl
 
 This is a webpage for a company that offers social media marketing and protection to their customers.
 
-Technology used:
+## Technology used:
 html
 css
 
-Project 1
+## Project 1
 Link:
 
-Credits:
+## Credits:
 Alex Canez 2022.
 
-Git hub:
+## Git hub:
 AlexCan36
 
 ![](assets/images/Screenshot%20(68).png)
